@@ -189,7 +189,7 @@ footer {
 {
   position: absolute;
   z-index: 10;
-  margin: 31em 85em 0em 0em;
+  margin: -16em 70em 0em 0em;
   /*bottom: 30px;*/
   display: flex;
   justify-content: center;
@@ -281,7 +281,7 @@ footer {
 			transform: scale(85%);      
 		}
 		.social {
-			margin: 70em 0em 0em 0em;
+			margin: 70m 0em 0em 0em;
 		}
 	}
 		footer {

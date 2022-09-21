@@ -279,14 +279,13 @@ footer {
         main {
 			margin: -10em 0em 0em 0em;
 			transform: scale(85%);      
+		}
+		.social {
+			margin: 70em 0em 0em 0em;
+		}
 	}
-	}
-
-
-
 		footer {
 			padding-top:  265px;
 			font-size: 80%
-		}
 		
-}
+}}
